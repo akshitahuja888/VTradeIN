@@ -1,7 +1,7 @@
 {
-  "name": "stock-market-india",
+  "name": "VTradeIN",
   "version": "1.0.0",
-  "description": "\"An API Library which fetches data from Bombay Stock Exchange and National Stock Exchange and returns data in JSON format.\"",
+  "description": "\"Real Time Stock Market Simulator.\"",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,7 +23,7 @@
     "node",
     "express"
   ],
-  "author": "Maanav Shah",
+  "author": "Akshit Ahuja",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/akshitahuja888/VTradeIN.git"
