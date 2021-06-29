@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maanavshah/stock-market-india.git"
+    "url": "git+https://github.com/akshitahuja888/VTradeIN.git"
   },
   "keywords": [
     "api",
@@ -26,9 +26,9 @@
   "author": "Maanav Shah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maanavshah/stock-market-india/issues"
+    "url": "https://github.com/akshitahuja888/VTradeIN.git"
   },
-  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
+  "homepage": "https://github.com/akshitahuja888/VTradeIN.git",
   "dependencies": {
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
